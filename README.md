@@ -4,6 +4,7 @@ It gives detail information about precautions, symptoms and the causes of Corona
 and activities taking place related to corona.
 In short, it is the go-to website for anyone who wants information related to corona and its updates.
 
+Deployed at https://covid-awareness-umang.onrender.com
 Created By:
 
 ### Umang Sinha -
